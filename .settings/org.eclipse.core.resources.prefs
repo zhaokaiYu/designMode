@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/yuzk/Factory/abstractFactory=GBK
+encoding//src/com/yuzk/Factory/factoryMethod=GBK
+encoding//src/com/yuzk/Factory/putong=GBK
+encoding//src/com/yuzk/adapt=GBK
+encoding//src/com/yuzk/clone=GBK
+encoding//src/com/yuzk/proxy=GBK
+encoding//src/com/yuzk/singleton=GBK
+encoding//src/com/yuzk/singleton/EagerSingleton.java=GBK
+encoding/src=UTF-8
